@@ -148,7 +148,7 @@ Atualmente, as solicitações (como segunda chamada, revisão de nota e abono de
 ## 6. Modelos Comportamentais (Estados)
 
 ### 6.1 Diagrama de Estados da classe `Solicitacao`
-![Diagrama de Estados](imagens/estados.jpeg)
+![Diagrama de Estados](imagens/estados_solicitacao.jpeg)
 
 ---
 
