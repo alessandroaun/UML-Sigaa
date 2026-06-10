@@ -2,6 +2,7 @@
 * Alessandro Uchoa do Nascimento 202402217356
 * Antonio Wagner Levy Lima Fernandes 202403517531
 * Allison Bruno Ferreira do Nascimento 202402217372
+* Leonardo Silva Lima 202402218671
 
 # Relatório Técnico de Modelagem UML
 **Sistema:** SIGAA Atendimento (Sistema de Gestão de Atendimento Acadêmico)
